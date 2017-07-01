@@ -150,3 +150,5 @@ that's just a guess.
 One last note here: regardless of the IDE used, every submitted project must
 still be compilable with cmake and make./
 "# CarND-MPC-Project" 
+#   C a r N D - M P C - P r o j e c t  
+ 
